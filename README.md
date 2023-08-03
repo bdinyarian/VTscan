@@ -13,11 +13,7 @@ Contact:	Feel free to reach out to the author Bahram Dinyarian at bahramdinyaria
 
 License:	VirusTotal Hash Scanner - PowerShell VT API Scanner - Copyright (C) 2023 Bahram Dinyarian
 
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
-This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
-You should have received a copy of the GNU General Public License along with this program. If not, see https://www.gnu.org/licenses/.
-This program comes with ABSOLUTELY NO WARRANTY. This is free software, and you are welcome to redistribute it under certain conditions.
-Please ensure you comply with the VirusTotal API Policies; https://developers.virustotal.com/v3.0/reference#user-content-policies/.
+THIS PROGRAM IS FREE SOFTWARE: YOU CAN REDISTRIBUTE IT AND/OR MODIFY IT UNDER THE TERMS OF THE GNU GENERAL PUBLIC LICENSE AS PUBLISHED BY THE FREE SOFTWARE FOUNDATION, EITHER VERSION 3 OF THE LICENSE, OR (AT YOUR OPTION) ANY LATER VERSION. THIS PROGRAM IS DISTRIBUTED IN THE HOPE THAT IT WILL BE USEFUL, BUT WITHOUT ANY WARRANTY; WITHOUT EVEN THE IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. SEE THE GNU GENERAL PUBLIC LICENSE FOR MORE DETAILS. YOU SHOULD HAVE RECEIVED A COPY OF THE GNU GENERAL PUBLIC LICENSE ALONG WITH THIS PROGRAM. IF NOT, SEE HTTPS://WWW.GNU.ORG/LICENSES/. THIS PROGRAM COMES WITH ABSOLUTELY NO WARRANTY. THIS IS FREE SOFTWARE, AND YOU ARE WELCOME TO REDISTRIBUTE IT UNDER CERTAIN CONDITIONS. PLEASE ENSURE YOU COMPLY WITH THE VIRUSTOTAL API POLICIES; HTTPS://SUPPORT.VIRUSTOTAL.COM/HC/EN-US/ARTICLES/115002145529-TERMS-OF-SERVICE.
  
 Contribution:	Feel free to contribute to the project by opening issues or submitting pull requests.
 
