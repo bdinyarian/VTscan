@@ -1,4 +1,6 @@
 							VirusTotal Hash Scanner
+  ![image](https://github.com/bdinyarian/VTscan/assets/21012337/c4f0a91c-d5ba-4248-9113-57600e1482a1)
+
 Description:
 
 This PowerShell script provides a simple GUI for scanning a list of file hashes on VirusTotal using their API. It allows you to input your VirusTotal API key, select a text file containing the list of file hashes, and perform the scan. The scan results are displayed in the UI and saved to a CSV file for further analysis.
@@ -8,7 +10,9 @@ Usage:
 2. Input your VirusTotal API key
 3. Select a text file containing the list of file hashes
 4. Press the "Run VirusTotal Scan" button
-    
+
+    ![image](https://github.com/bdinyarian/VTscan/assets/21012337/83b830d1-c2ef-4f4e-bc88-36b6a56bdc43)
+
 Contact:	Feel free to reach out to the author Bahram Dinyarian at bahramdinyarian@gmail.com for any questions or concerns.
 
 License:	VirusTotal Hash Scanner - PowerShell VT API Scanner - Copyright (C) 2023 Bahram Dinyarian
